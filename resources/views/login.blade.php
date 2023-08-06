@@ -3,7 +3,7 @@
 <html lang="pt">
 
 <head>
-    <title>Registro de Ponto - Login</title>
+    <title>Registro de finacias - Login</title>
    
     <link rel='stylesheet' type='text/css' href='css/login.css' media='screen' />
 
