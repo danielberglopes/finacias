@@ -153,8 +153,10 @@
       
       </div>
       <div class="modal-footer folte">
-      <button type="button" style="    border: 2px solid red; color: #e93d5b;" class="btn btn-outline-primary" data-bs-dismiss="modal" disabled >Primary button</button>
- 
+      <button type="button"  style="background-color: #e93d5b; color:#f0f2f5  " class="btn " data-bs-dismiss="modal">Cancelar produtor</button>
+
+      <!-- <button type="button" style="    border: 2px solid red; color: #e93d5b;" class="btn btn-secondary" data-bs-dismiss="modal" disabled >Cancelar produtor</button>
+  -->
         <button  type="submit" class="btn btn-success">Salvar produtor</button>
         </form>
       </div>
